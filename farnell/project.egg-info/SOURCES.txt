@@ -1,0 +1,13 @@
+setup.py
+farnell/__init__.py
+farnell/items.py
+farnell/middlewares.py
+farnell/pipelines.py
+farnell/settings.py
+farnell/spiders/__init__.py
+farnell/spiders/uk_farnell_com.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
