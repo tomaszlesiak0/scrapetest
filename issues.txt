@@ -1,0 +1,13 @@
+1. According to the data specification there should be a product brand name, but it's not present in FarnellItem class Number of affected itmes: all Severity: High
+
+2. r/n (1434/1490 affected, "overview".*\\r\\n regex) and whitespaces (1433/1490 affected, "overview".* {2,} regex) in overview
+
+3. Stock count is always 1 - not true, but check it
+
+4. Price should be a float
+
+5. check what "files" is
+
+6. Shouldn't electrical be first? Items are mixed
+
+7. 
